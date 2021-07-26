@@ -6,7 +6,7 @@ This Privacy Policy explains which personal data we (Spark Lab LLC) collect and 
 
 IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICES. We will post any modifications or changes to the Privacy Policy on the Spark Lab website. We reserve the right to modify this Privacy Policy at any time, so we encourage you to review it frequently. If we make a material change to this Privacy Policy, we will notify you by email or by means of a notice on the Spark Lab website or via push notifications within our mobile applications prior to the changes taking effect, in accordance with any applicable legal obligations. Your continued use of the Services signifies your acceptance of our modified Privacy Policy. We regularly update our software applications (including our mobile and desktop applications) to make improvements, including improvements that better serve your privacy rights. To ensure that this Privacy Policy accurately reflects your use of the Services you will need to ensure that you are using the most recent release of the Spark Lab’s software applications.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Terms of Use unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at [Terms of Use](https://sparklabdev.github.io/legal/terms) unless otherwise defined in this Privacy Policy.
 
 ## Information Collection and Use
 
@@ -14,10 +14,11 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app does use third-party services that may collect information used to identify you.
 
-Link to the privacy policy of third party service providers used by the app:  
-    • [Google Privacy Policy](http://www.google.com/policies/privacy)  
-    • [Firebase Use Policy](https://firebase.google.com/policies/analytics)  
-    • [Facebook Privacy Policy](https://developers.facebook.com/terms#privacypolicy) 
+Link to the privacy policy of third party service providers used by the app:
+ 
+• [Google Privacy Policy](http://www.google.com/policies/privacy)  
+• [Firebase Use Policy](https://firebase.google.com/policies/analytics)  
+• [Facebook Privacy Policy](https://developers.facebook.com/terms#privacypolicy) 
 
 ### Live streaming services
 
@@ -35,11 +36,12 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 ### Service Providers
 
-We may employ third-party companies and individuals due to the following reasons:  
-    • To facilitate our Service;  
-    • To provide the Service on our behalf;  
-    • To perform Service-related services; or  
-    • To assist us in analyzing how our Service is used.
+We may employ third-party companies and individuals due to the following reasons:
+
+• To facilitate our Service;  
+• To provide the Service on our behalf;  
+• To perform Service-related services; or  
+• To assist us in analyzing how our Service is used.
 
 We want to inform you of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
