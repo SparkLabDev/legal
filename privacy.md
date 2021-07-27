@@ -14,7 +14,8 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app does use third-party services that may collect information used to identify you.
 
-Links to the privacy policy of third party service providers used by the app:  t
+Links to the privacy policy of third party service providers used by the app:
+
 • [Google Privacy Policy](http://www.google.com/policies/privacy)  
 • [Firebase Use Policy](https://firebase.google.com/policies/analytics)  
 • [Facebook Privacy Policy](https://developers.facebook.com/terms#privacypolicy)  
