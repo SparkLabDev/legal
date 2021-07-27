@@ -1,8 +1,3 @@
-domain: sparklabdev.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://sparklabdev.github.io/legal  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl:
-
-
 # Terms of Use
 Last Updated Date: July 26, 2021
 
