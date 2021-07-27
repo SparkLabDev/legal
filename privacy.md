@@ -15,10 +15,13 @@ For a better experience, while using our Service, we may require you to provide 
 The app does use third-party services that may collect information used to identify you.
 
 Link to the privacy policy of third party service providers used by the app:
- 
+• [YouTube Terms of Service](https://www.youtube.com/t/terms)  
 • [Google Privacy Policy](http://www.google.com/policies/privacy)  
 • [Firebase Use Policy](https://firebase.google.com/policies/analytics)  
-• [Facebook Privacy Policy](https://developers.facebook.com/terms#privacypolicy) 
+• [Facebook Privacy Policy](https://developers.facebook.com/terms#privacypolicy)  
+• [Twitch Privacy Policy](https://www.twitch.tv/p/legal/privacy-policy/)
+
+You can revoke the YouTube API Client's access to your Authorized Data via the Google security settings page at [https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions)
 
 ### Live streaming services
 
