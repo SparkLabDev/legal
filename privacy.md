@@ -16,6 +16,7 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app uses third-party services that may collect, store and share information used to identify you.
 Spark Lab encourages you to review the terms and conditions, privacy policies, and other governing documents of each third-party service before using functionality provided by it.
+
 The service is an API client for the following third-party services:  
 1. YouTube API Services  
    • [YouTube Terms of Service](https://www.youtube.com/t/terms)  
