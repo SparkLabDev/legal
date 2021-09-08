@@ -15,7 +15,7 @@ Our Service don't collect any of your Personal Information.
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by us in any way.
 
 The app uses third-party services that may collect, store and share information used to identify you.
-Spark Lab encourages you to review the terms and conditions, privacy policies, and other governing documents of each third-party service before using functionality provided by it.
+Spark Lab encourages you to review the terms and conditions, privacy policies, and other governing documents of each third-party service before using the functionality provided by it.
 
 The service is an API client for the following third-party services:  
 1. YouTube API Services  
